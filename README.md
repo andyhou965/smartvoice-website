@@ -1,8 +1,15 @@
-# React + Vite
+# Smart Voice Website Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a website template for a smart voice assistant. It is designed to be a modern, clean, easy-to-use template that can be customized to fit your needs.
 
-Currently, two official plugins are available:
+<p align="center">
+<img src="./demo/hero.png" width="600"><br>
+<strong>AI website with modern design</strong>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Showcase
+
+<p align="center">
+<img src="./demo/SmartVoice.gif" width="600"><br>
+<strong> </strong>
+</p>
