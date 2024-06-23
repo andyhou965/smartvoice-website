@@ -1,6 +1,8 @@
-# Smart Voice Website Template
+# AI Product Website Example
 
-This is a website template for a smart voice assistant. It is designed to be a modern, clean, easy-to-use template that can be customized to fit your needs.
+This is a modern designed website example for a smart voice assistant product.
+
+It is designed to be a modern, clean, easy-to-use template with AI elements, and can be customized to fit your needs.
 
 <p align="center">
 <img src="./demo/hero.png" width="600"><br>
