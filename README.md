@@ -13,3 +13,7 @@ This is a website template for a smart voice assistant. It is designed to be a m
 <img src="./demo/SmartVoice.gif" width="600"><br>
 <strong> </strong>
 </p>
+
+## Try it out
+
+Feel free to play with the [web demo](https://smartvoice.vercel.app/).
