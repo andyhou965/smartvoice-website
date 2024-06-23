@@ -1,7 +1,7 @@
 import Section from "./Section";
 import Heading from "./Heading";
 import { service1, service2, service3, check } from "../assets";
-import { brainwaveServices, brainwaveServicesIcons } from "../constants";
+import { appServices, appServicesIcons } from "../constants";
 import Generating from "./Generating";
 import {
   PhotoChatMessage,
@@ -16,7 +16,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Generative AI Made for Creators"
-          text="Brainwave unlocks the potential of AI-powered applications"
+          text="SmartVoice unlocks the potential of AI-powered applications"
         />
         <div className="relative">
           <div className="relative z-1 flex items-center h-[39rem] mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]">
@@ -33,10 +33,10 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">Smartest AI</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Brainwave unlocks the potential of AI-powered applications
+                SmartVoice unlocks the potential of AI-powered applications
               </p>
               <ul className="body-2">
-                {brainwaveServices.map((item, index) => (
+                {appServices.map((item, index) => (
                   <li
                     key={index}
                     className="flex items-start py-4 border-t border-n-6"
@@ -76,11 +76,11 @@ const Services = () => {
               <div className="py-12 px-4 xl:px-8">
                 <h4 className="h4 mb-4">Video Generation</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
-                  The world’s most powerful AI photo and video art generation
-                  engine. What will you create?
+                  The world&apos;s most powerful AI photo and video art
+                  generation engine. What will you create?
                 </p>
                 <ul className="flex items-center justify-between">
-                  {brainwaveServicesIcons.map((item, index) => (
+                  {appServicesIcons.map((item, index) => (
                     <li
                       key={index}
                       className={`flex items-center justify-center ${
